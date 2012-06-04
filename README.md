@@ -11,3 +11,5 @@ This project constists of a bootloader, kernel, root file system, and applicatio
 
  1. Start by installing Git by following the instructions at https://help.github.com/articles/set-up-git
  1. Clone the master branch (all development will be done on the master __for now__) 
+  * `$ git clone git@github.com:username/Spoon-Knife.git`
+ 1. 
