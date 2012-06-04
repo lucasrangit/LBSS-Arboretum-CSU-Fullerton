@@ -19,6 +19,6 @@ All project should be versioned using Git and this repository.
   * `$ git clone git@github.com:username/Spoon-Knife.git`
  1. Make changes
  1. Send changes __to__ remote
-  * `$ git commit -a -m "a comment about the changes"
+  * `$ git commit -a -m "a comment about the changes"`
  1. Receive changes __from__ remote
   * `$ git pull`
