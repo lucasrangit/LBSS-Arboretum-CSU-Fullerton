@@ -17,8 +17,9 @@ All project should be versioned using Git and this repository.
  1. Start by installing Git by following the instructions at https://help.github.com/articles/set-up-git
  1. Clone the master branch (all development will be done on the master __for now__) 
   * `$ git clone git@github.com:username/Spoon-Knife.git`
- 1. Make changes
+ 1. Make changes to existing files
  1. Send changes __to__ remote
-  * `$ git commit -a -m "a comment about the changes"`
+  * `$ git commit -m "a comment about the changes"`
+  * `$ git push`
  1. Receive changes __from__ remote
   * `$ git pull`
